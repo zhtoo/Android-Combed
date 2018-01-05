@@ -1,10 +1,4 @@
 ## Android知识点梳理
-
-
-
-
-
-
 ### Application+主题	
 1. 关于白屏/黑屏的解决方案	
 1. App的主题样式	
@@ -97,7 +91,7 @@
 1. 什么是OOM	
 1. OOM相关概念	
 1. 解决OOM	
-### Bitmap	
+### [Bitmap](https://juejin.im/post/5a4a454f518825258b745c42)  	
 1. recycle	
 1. LruCache原理	
 1. 计算inSampleSize	
