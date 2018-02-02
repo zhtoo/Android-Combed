@@ -7,7 +7,8 @@
 1. Activity是什么	
 1. Activity四种状态	
 1. Activity生命周期	
-1. 进程的优先级	
+1. 进程的优先级
+1. [IPC(进程间的通讯)](https://github.com/zhtoo/Android-Combed/blob/master/ipc/introduction.md)
 1. Activity任务栈	
 1. Activity启动模式	
 1. scheme跳转协议	
